@@ -232,6 +232,9 @@ class TextOnImage:
 
         return (img,)
 
+# __init__.py
+__version__ = "1.0.0"
+
 # 注册节点
 NODE_CLASS_MAPPINGS = {
     "TextOnImage": TextOnImage
