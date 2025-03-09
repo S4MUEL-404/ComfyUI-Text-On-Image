@@ -1,0 +1,14 @@
+[project]
+name = "text-on-image"
+description = "A custom node for ComfyUI that allows users to add text overlays to images with customizable size, font, position, and shadow."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/S4MUEL-404/ComfyUI-Text-On-Image"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Text-On-Image"
+Icon = ""
